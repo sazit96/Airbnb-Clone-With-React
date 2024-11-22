@@ -1,5 +1,5 @@
-## Overview
+## Airbnb Clone
 
-### Screenshot
+### Preview
 
-![FireShot Capture 191 - AirBnb Clone - 127.0.0.1](./assets/project-overview.jpg)
+![Airbnb Clone Preview](./assets/project-overview.jpg)
