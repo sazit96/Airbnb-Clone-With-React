@@ -2,4 +2,4 @@
 
 ### Preview
 
-![Airbnb Clone Preview](./assets/project-overview.jpg)
+![Airbnb Clone Preview](./project-overview.jpg)
